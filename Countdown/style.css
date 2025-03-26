@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+.container1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(246, 213, 213);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.d-flex {
+  display: flex;
+}
+input {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  width: 45%;
+  text-align: center;
+}
